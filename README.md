@@ -1,6 +1,7 @@
 # Brain Wave Monitor for Air Traffic Controller (ATCO) Fatigue and Stress Assessment
 
 ## Project Overview
+![Project example](https://media.discordapp.net/attachments/1397264002907897929/1398661592232493066/image.png?ex=68877e1d&is=68862c9d&hm=c38fb35c2ec4913fbef44663ec23869013dc4b283f07d6c4a1c19fbdfe9e0763&=&format=webp&quality=lossless&width=1579&height=856)
 
 This project is a brain wave monitoring system designed to assess the mental state of Air Traffic Controllers (ATCOs) while resolving air conflict situations. The goal is to detect whether the brain is in an active or inactive state, which helps correlate brain activity with fatigue and stress levels.
 
