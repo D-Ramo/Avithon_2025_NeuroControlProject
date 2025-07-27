@@ -1,1 +1,0 @@
-# Avithon_2025_NeuroControlProject
