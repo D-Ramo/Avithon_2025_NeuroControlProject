@@ -1,0 +1,13 @@
+jpackage ^
+    --type app-image ^
+    --input .\input ^
+    --name NeuroControlApp ^
+    --main-jar NeuroControlApp.jar ^
+    --main-class com.avithon.neurocontrolapp.HelloApplication ^
+    --icon logo_128x128.ico ^
+    --dest .\dist ^
+    --vendor NeuroControlTeam ^
+    --module-path lib ^
+    --add-modules javafx.base,javafx.controls,javafx.fxml ^
+    --java-options "--add-opens=javafx.graphics/com.sun.javafx.tk.quantum=ALL-UNNAMED -Dprism.order=sw" ^
+    --win-console

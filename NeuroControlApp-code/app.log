@@ -1,0 +1,14 @@
+Jul 25, 2025 2:47:20 PM com.avithon.neurocontrolapp.MulticastConnection lambda$connect$0
+SEVERE: Socket closed
+Jul 25, 2025 3:12:19 PM com.avithon.neurocontrolapp.MulticastConnection lambda$connect$0
+SEVERE: Socket closed
+Jul 25, 2025 3:12:43 PM com.avithon.neurocontrolapp.MulticastConnection lambda$connect$0
+SEVERE: Socket closed
+Jul 25, 2025 3:12:46 PM com.avithon.neurocontrolapp.HelloController lambda$initialize$2
+SEVERE: sleep interrupted
+Jul 25, 2025 3:25:38 PM com.avithon.neurocontrolapp.MulticastConnection lambda$connect$0
+SEVERE: Socket closed
+Jul 25, 2025 3:25:41 PM com.avithon.neurocontrolapp.HelloController lambda$initialize$2
+SEVERE: sleep interrupted
+Jul 25, 2025 3:57:26 PM com.avithon.neurocontrolapp.HelloController lambda$initialize$2
+SEVERE: sleep interrupted

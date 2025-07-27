@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="800.0" prefWidth="1280.0" style="-fx-background-color: #F4F6F8;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.avithon.neurocontrolapp.HelloController">
+   <children>
+      <VBox alignment="CENTER_LEFT" layoutY="181.0" prefHeight="531.0" prefWidth="1280.0" spacing="10.0" AnchorPane.bottomAnchor="88.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="181.0">
+          <padding>
+              <Insets bottom="20.0" left="20.0" right="20.0" />
+          </padding>
+         <children>
+            <HBox alignment="CENTER">
+               <children>
+                  <FlowPane orientation="VERTICAL" vgap="10.0">
+                     <children>
+                        <Label text="JEDDAH ACC" textFill="#2c3e50">
+                           <font>
+                              <Font name="Segoe UI Bold" size="24.0" />
+                           </font>
+                        </Label>
+                        <FlowPane fx:id="fpCwps" alignment="TOP_CENTER" prefHeight="329.0" prefWidth="1240.0" style="-fx-border-color: black; -fx-border-width: 0.2; -fx-border-radius: 10; -fx-background-color: white; -fx-background-radius: 10;">
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <padding>
+                              <Insets top="20.0" />
+                           </padding>
+                        </FlowPane>
+                     </children>
+                  </FlowPane>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <ImageView fitHeight="80.0" fitWidth="200.0" layoutX="14.0" layoutY="14.0" AnchorPane.leftAnchor="20.0" AnchorPane.topAnchor="20.0">
+         <image>
+            <Image url="@images/logo-cropped.png" />
+         </image>
+      </ImageView>
+      <ImageView layoutX="1175.0" layoutY="14.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+         <image>
+            <Image url="@images/avithon-logo.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

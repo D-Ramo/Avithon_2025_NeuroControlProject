@@ -1,0 +1,13 @@
+jpackage ^
+  --type exe ^
+   --input input ^
+     --name NeuroControlAppInstaller ^
+      --main-jar NeuroControlApp.jar ^
+       --main-class com.avithon.neurocontrolapp.HelloApplication ^
+        --icon logo_128x128.ico ^
+         --win-menu ^
+          --win-shortcut ^
+          --dest dist ^
+          --vendor NeuroControlTeam ^
+          --runtime-image runtime
+          --install-dir "%USERPROFILE%\NeuroControlApp"

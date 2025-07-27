@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.avithon.neurocontrolapp.PopupController">
+   <children>
+      <HBox layoutX="42.0" layoutY="130.0" prefWidth="1280.0" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="133.0">
+         <children>
+            <VBox fx:id="vbAtco" minWidth="230.0" style="-fx-border-color: black; -fx-border-width: 0.2; -fx-border-radius: 10; -fx-background-color: white; -fx-background-radius: 10;" HBox.hgrow="NEVER">
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="647.0" prefWidth="1048.0" spacing="10.0" style="-fx-border-color: black; -fx-border-width: 0.2; -fx-border-radius: 10; -fx-background-color: white; -fx-background-radius: 10;" HBox.hgrow="ALWAYS">
+               <children>
+                  <HBox alignment="CENTER" maxHeight="250.0" VBox.vgrow="ALWAYS">
+                     <children>
+                        <LineChart fx:id="rawEeg" maxHeight="250.0" prefHeight="150.0" title="Raw EEG" HBox.hgrow="ALWAYS">
+                          <xAxis>
+                            <NumberAxis side="BOTTOM" />
+                          </xAxis>
+                          <yAxis>
+                            <NumberAxis side="LEFT" />
+                          </yAxis>
+                        </LineChart>
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER" layoutX="10.0" layoutY="10.0" maxHeight="250.0" VBox.vgrow="ALWAYS">
+                     <children>
+                        <LineChart fx:id="alpha" maxHeight="250.0" prefHeight="150.0" prefWidth="500.0" title="Alpha" HBox.hgrow="ALWAYS">
+                           <xAxis>
+                              <NumberAxis side="BOTTOM" />
+                           </xAxis>
+                           <yAxis>
+                              <NumberAxis side="LEFT" />
+                           </yAxis>
+                        </LineChart>
+                        <LineChart fx:id="beta" layoutX="10.0" layoutY="10.0" maxHeight="250.0" prefHeight="150.0" prefWidth="500.0" title="Beta" HBox.hgrow="ALWAYS">
+                           <xAxis>
+                              <NumberAxis side="BOTTOM" />
+                           </xAxis>
+                           <yAxis>
+                              <NumberAxis side="LEFT" />
+                           </yAxis>
+                        </LineChart>
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER" layoutX="10.0" layoutY="189.0" maxHeight="250.0" VBox.vgrow="ALWAYS">
+                     <children>
+                        <LineChart fx:id="gamma" maxHeight="250.0" prefHeight="150.0" prefWidth="500.0" title="Gamma" HBox.hgrow="ALWAYS">
+                           <xAxis>
+                              <NumberAxis side="BOTTOM" />
+                           </xAxis>
+                           <yAxis>
+                              <NumberAxis side="LEFT" />
+                           </yAxis>
+                        </LineChart>
+                        <LineChart fx:id="theta" layoutX="10.0" layoutY="10.0" maxHeight="250.0" prefHeight="150.0" prefWidth="500.0" title="Theta" HBox.hgrow="ALWAYS">
+                           <xAxis>
+                              <NumberAxis side="BOTTOM" />
+                           </xAxis>
+                           <yAxis>
+                              <NumberAxis side="LEFT" />
+                           </yAxis>
+                        </LineChart>
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER" layoutX="10.0" layoutY="368.0" maxHeight="250.0" VBox.vgrow="ALWAYS">
+                     <children>
+                        <LineChart fx:id="delta" maxHeight="250.0" prefHeight="150.0" prefWidth="500.0" title="Delta" HBox.hgrow="ALWAYS">
+                           <xAxis>
+                              <NumberAxis side="BOTTOM" />
+                           </xAxis>
+                           <yAxis>
+                              <NumberAxis side="LEFT" />
+                           </yAxis>
+                        </LineChart>
+                        <LineChart fx:id="attentionMediation" layoutX="10.0" layoutY="10.0" maxHeight="250.0" prefHeight="150.0" prefWidth="500.0" title="Attention - Mediation " HBox.hgrow="ALWAYS">
+                           <xAxis>
+                              <NumberAxis side="BOTTOM" />
+                           </xAxis>
+                           <yAxis>
+                              <NumberAxis side="LEFT" />
+                           </yAxis>
+                        </LineChart>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </HBox>
+      <ImageView fitHeight="80.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" AnchorPane.leftAnchor="20.0" AnchorPane.topAnchor="20.0">
+         <image>
+            <Image url="@images/logo-cropped.png" />
+         </image>
+      </ImageView>
+      <ImageView layoutX="1185.0" layoutY="24.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+         <image>
+            <Image url="@images/avithon-logo.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="62.0" layoutY="114.0" prefHeight="28.0" prefWidth="117.0" text="CWP Information">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="718.0" layoutY="114.0" prefHeight="28.0" prefWidth="75.0" text="EEG Signal">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

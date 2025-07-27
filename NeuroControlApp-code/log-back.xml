@@ -1,0 +1,5 @@
+<Appenders>
+    <File name="FileLogger" fileName="app.log" append="true">
+        <PatternLayout pattern="%d [%t] %-5level: %msg%n%throwable"/>
+    </File>
+</Appenders>

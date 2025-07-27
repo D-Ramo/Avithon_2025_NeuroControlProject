@@ -1,0 +1,11 @@
+jpackage ^
+  --type app-image ^
+   --input .\input ^
+     --name NeuroControlApp ^
+      --main-jar NeuroControlApp.jar ^
+       --main-class com.avithon.neurocontrolapp.HelloApplication ^
+        --icon logo_128x128.ico ^
+          --dest .\dist ^
+          --vendor NeuroControlTeam ^
+          --runtime-image .\custom-runtime ^
+          --win-console
