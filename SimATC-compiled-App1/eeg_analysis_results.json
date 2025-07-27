@@ -1,0 +1,3801 @@
+{
+  "metadata": {
+    "total_predictions": 459,
+    "analysis_date": "2025-07-23T20:45:07.889477",
+    "duration_seconds": 189.876197,
+    "sampling_info": {
+      "window_size_samples": 800,
+      "stride_samples": 100,
+      "sampling_rate_hz": 200
+    },
+    "input_file": "/content/0_OUT 23_07_2025 01_08_37.txt",
+    "window_size": 800,
+    "stride": 100,
+    "event_method": "any",
+    "use_natural_events": true,
+    "features_used": [
+      "beta_alpha_ratio",
+      "delta",
+      "gamma",
+      "hjorth_activity",
+      "hjorth_complexity",
+      "hjorth_mobility",
+      "kurtosis",
+      "rel_alpha",
+      "rel_beta",
+      "rel_delta",
+      "rel_gamma",
+      "rel_theta",
+      "skewness",
+      "spec_entropy",
+      "theta"
+    ]
+  },
+  "predictions": [
+    {
+      "index": 0,
+      "timestamp": "2025-07-23T01:08:41.315699+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:41.315699+03:00"
+    },
+    {
+      "index": 1,
+      "timestamp": "2025-07-23T01:08:41.745841+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:41.745841+03:00"
+    },
+    {
+      "index": 2,
+      "timestamp": "2025-07-23T01:08:42.130869+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:42.130869+03:00"
+    },
+    {
+      "index": 3,
+      "timestamp": "2025-07-23T01:08:42.589904+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:42.589904+03:00"
+    },
+    {
+      "index": 4,
+      "timestamp": "2025-07-23T01:08:42.986745+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:42.986745+03:00"
+    },
+    {
+      "index": 5,
+      "timestamp": "2025-07-23T01:08:43.443106+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:43.443106+03:00"
+    },
+    {
+      "index": 6,
+      "timestamp": "2025-07-23T01:08:43.852087+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:43.852087+03:00"
+    },
+    {
+      "index": 7,
+      "timestamp": "2025-07-23T01:08:44.291688+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:44.291688+03:00"
+    },
+    {
+      "index": 8,
+      "timestamp": "2025-07-23T01:08:44.746998+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:44.746998+03:00"
+    },
+    {
+      "index": 9,
+      "timestamp": "2025-07-23T01:08:45.179774+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:45.179774+03:00"
+    },
+    {
+      "index": 10,
+      "timestamp": "2025-07-23T01:08:45.585541+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:45.585541+03:00"
+    },
+    {
+      "index": 11,
+      "timestamp": "2025-07-23T01:08:46.022489+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:46.022489+03:00"
+    },
+    {
+      "index": 12,
+      "timestamp": "2025-07-23T01:08:46.469235+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:46.469235+03:00"
+    },
+    {
+      "index": 13,
+      "timestamp": "2025-07-23T01:08:46.915435+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:46.915435+03:00"
+    },
+    {
+      "index": 14,
+      "timestamp": "2025-07-23T01:08:47.325681+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:47.325681+03:00"
+    },
+    {
+      "index": 15,
+      "timestamp": "2025-07-23T01:08:47.769558+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:47.769558+03:00"
+    },
+    {
+      "index": 16,
+      "timestamp": "2025-07-23T01:08:48.197589+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:48.197589+03:00"
+    },
+    {
+      "index": 17,
+      "timestamp": "2025-07-23T01:08:48.621689+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:48.621689+03:00"
+    },
+    {
+      "index": 18,
+      "timestamp": "2025-07-23T01:08:49.056926+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:49.056926+03:00"
+    },
+    {
+      "index": 19,
+      "timestamp": "2025-07-23T01:08:49.494878+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:49.494878+03:00"
+    },
+    {
+      "index": 20,
+      "timestamp": "2025-07-23T01:08:49.933117+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:49.933117+03:00"
+    },
+    {
+      "index": 21,
+      "timestamp": "2025-07-23T01:08:50.467338+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:50.467338+03:00"
+    },
+    {
+      "index": 22,
+      "timestamp": "2025-07-23T01:08:50.795362+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:50.795362+03:00"
+    },
+    {
+      "index": 23,
+      "timestamp": "2025-07-23T01:08:51.187723+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:51.187723+03:00"
+    },
+    {
+      "index": 24,
+      "timestamp": "2025-07-23T01:08:51.647729+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:51.647729+03:00"
+    },
+    {
+      "index": 25,
+      "timestamp": "2025-07-23T01:08:52.076099+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:52.076099+03:00"
+    },
+    {
+      "index": 26,
+      "timestamp": "2025-07-23T01:08:52.511191+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:52.511191+03:00"
+    },
+    {
+      "index": 27,
+      "timestamp": "2025-07-23T01:08:52.958379+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:52.958379+03:00"
+    },
+    {
+      "index": 28,
+      "timestamp": "2025-07-23T01:08:53.340407+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:53.340407+03:00"
+    },
+    {
+      "index": 29,
+      "timestamp": "2025-07-23T01:08:53.829123+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:53.829123+03:00"
+    },
+    {
+      "index": 30,
+      "timestamp": "2025-07-23T01:08:54.238109+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:54.238109+03:00"
+    },
+    {
+      "index": 31,
+      "timestamp": "2025-07-23T01:08:54.673418+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:54.673418+03:00"
+    },
+    {
+      "index": 32,
+      "timestamp": "2025-07-23T01:08:55.120451+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:55.120451+03:00"
+    },
+    {
+      "index": 33,
+      "timestamp": "2025-07-23T01:08:55.529561+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:55.529561+03:00"
+    },
+    {
+      "index": 34,
+      "timestamp": "2025-07-23T01:08:55.912391+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:55.912391+03:00"
+    },
+    {
+      "index": 35,
+      "timestamp": "2025-07-23T01:08:56.365894+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:56.365894+03:00"
+    },
+    {
+      "index": 36,
+      "timestamp": "2025-07-23T01:08:56.811118+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:56.811118+03:00"
+    },
+    {
+      "index": 37,
+      "timestamp": "2025-07-23T01:08:57.278853+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:57.278853+03:00"
+    },
+    {
+      "index": 38,
+      "timestamp": "2025-07-23T01:08:57.649880+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:57.649880+03:00"
+    },
+    {
+      "index": 39,
+      "timestamp": "2025-07-23T01:08:58.100912+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:58.100912+03:00"
+    },
+    {
+      "index": 40,
+      "timestamp": "2025-07-23T01:08:58.535949+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:58.535949+03:00"
+    },
+    {
+      "index": 41,
+      "timestamp": "2025-07-23T01:08:58.949116+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:58.949116+03:00"
+    },
+    {
+      "index": 42,
+      "timestamp": "2025-07-23T01:08:59.395112+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:59.395112+03:00"
+    },
+    {
+      "index": 43,
+      "timestamp": "2025-07-23T01:08:59.906126+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:08:59.906126+03:00"
+    },
+    {
+      "index": 44,
+      "timestamp": "2025-07-23T01:09:00.258517+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:00.258517+03:00"
+    },
+    {
+      "index": 45,
+      "timestamp": "2025-07-23T01:09:00.676547+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:00.676547+03:00"
+    },
+    {
+      "index": 46,
+      "timestamp": "2025-07-23T01:09:01.132214+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:01.132214+03:00"
+    },
+    {
+      "index": 47,
+      "timestamp": "2025-07-23T01:09:01.543245+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:01.543245+03:00"
+    },
+    {
+      "index": 48,
+      "timestamp": "2025-07-23T01:09:01.973792+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:01.973792+03:00"
+    },
+    {
+      "index": 49,
+      "timestamp": "2025-07-23T01:09:02.476446+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:02.476446+03:00"
+    },
+    {
+      "index": 50,
+      "timestamp": "2025-07-23T01:09:03.044780+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:03.044780+03:00"
+    },
+    {
+      "index": 51,
+      "timestamp": "2025-07-23T01:09:03.301802+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:03.301802+03:00"
+    },
+    {
+      "index": 52,
+      "timestamp": "2025-07-23T01:09:03.670826+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:03.670826+03:00"
+    },
+    {
+      "index": 53,
+      "timestamp": "2025-07-23T01:09:04.149863+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:04.149863+03:00"
+    },
+    {
+      "index": 54,
+      "timestamp": "2025-07-23T01:09:04.535892+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:04.535892+03:00"
+    },
+    {
+      "index": 55,
+      "timestamp": "2025-07-23T01:09:05.000697+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:05.000697+03:00"
+    },
+    {
+      "index": 56,
+      "timestamp": "2025-07-23T01:09:05.404728+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:05.404728+03:00"
+    },
+    {
+      "index": 57,
+      "timestamp": "2025-07-23T01:09:05.853420+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:05.853420+03:00"
+    },
+    {
+      "index": 58,
+      "timestamp": "2025-07-23T01:09:06.249449+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:06.249449+03:00"
+    },
+    {
+      "index": 59,
+      "timestamp": "2025-07-23T01:09:06.672134+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:06.672134+03:00"
+    },
+    {
+      "index": 60,
+      "timestamp": "2025-07-23T01:09:07.138167+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:07.138167+03:00"
+    },
+    {
+      "index": 61,
+      "timestamp": "2025-07-23T01:09:07.564205+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:07.564205+03:00"
+    },
+    {
+      "index": 62,
+      "timestamp": "2025-07-23T01:09:07.994232+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:07.994232+03:00"
+    },
+    {
+      "index": 63,
+      "timestamp": "2025-07-23T01:09:08.403261+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:08.403261+03:00"
+    },
+    {
+      "index": 64,
+      "timestamp": "2025-07-23T01:09:08.835896+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:08.835896+03:00"
+    },
+    {
+      "index": 65,
+      "timestamp": "2025-07-23T01:09:09.286266+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:09.286266+03:00"
+    },
+    {
+      "index": 66,
+      "timestamp": "2025-07-23T01:09:09.679918+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:09.679918+03:00"
+    },
+    {
+      "index": 67,
+      "timestamp": "2025-07-23T01:09:10.116107+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:10.116107+03:00"
+    },
+    {
+      "index": 68,
+      "timestamp": "2025-07-23T01:09:10.631818+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:10.631818+03:00"
+    },
+    {
+      "index": 69,
+      "timestamp": "2025-07-23T01:09:11.010724+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:11.010724+03:00"
+    },
+    {
+      "index": 70,
+      "timestamp": "2025-07-23T01:09:11.392751+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:11.392751+03:00"
+    },
+    {
+      "index": 71,
+      "timestamp": "2025-07-23T01:09:11.810782+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:11.810782+03:00"
+    },
+    {
+      "index": 72,
+      "timestamp": "2025-07-23T01:09:12.219812+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:12.219812+03:00"
+    },
+    {
+      "index": 73,
+      "timestamp": "2025-07-23T01:09:12.668847+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:12.668847+03:00"
+    },
+    {
+      "index": 74,
+      "timestamp": "2025-07-23T01:09:13.075217+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:13.075217+03:00"
+    },
+    {
+      "index": 75,
+      "timestamp": "2025-07-23T01:09:13.543622+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:13.543622+03:00"
+    },
+    {
+      "index": 76,
+      "timestamp": "2025-07-23T01:09:13.915650+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:13.915650+03:00"
+    },
+    {
+      "index": 77,
+      "timestamp": "2025-07-23T01:09:14.376299+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:14.376299+03:00"
+    },
+    {
+      "index": 78,
+      "timestamp": "2025-07-23T01:09:14.814332+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:14.814332+03:00"
+    },
+    {
+      "index": 79,
+      "timestamp": "2025-07-23T01:09:15.146354+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:15.146354+03:00"
+    },
+    {
+      "index": 80,
+      "timestamp": "2025-07-23T01:09:15.608389+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:15.608389+03:00"
+    },
+    {
+      "index": 81,
+      "timestamp": "2025-07-23T01:09:16.009418+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:16.009418+03:00"
+    },
+    {
+      "index": 82,
+      "timestamp": "2025-07-23T01:09:16.451145+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:16.451145+03:00"
+    },
+    {
+      "index": 83,
+      "timestamp": "2025-07-23T01:09:16.912180+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:16.912180+03:00"
+    },
+    {
+      "index": 84,
+      "timestamp": "2025-07-23T01:09:17.349211+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:17.349211+03:00"
+    },
+    {
+      "index": 85,
+      "timestamp": "2025-07-23T01:09:17.795244+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:17.795244+03:00"
+    },
+    {
+      "index": 86,
+      "timestamp": "2025-07-23T01:09:18.210275+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:18.210275+03:00"
+    },
+    {
+      "index": 87,
+      "timestamp": "2025-07-23T01:09:18.562301+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:18.562301+03:00"
+    },
+    {
+      "index": 88,
+      "timestamp": "2025-07-23T01:09:18.984332+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:18.984332+03:00"
+    },
+    {
+      "index": 89,
+      "timestamp": "2025-07-23T01:09:19.513370+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:19.513370+03:00"
+    },
+    {
+      "index": 90,
+      "timestamp": "2025-07-23T01:09:19.858938+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:19.858938+03:00"
+    },
+    {
+      "index": 91,
+      "timestamp": "2025-07-23T01:09:20.272968+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:20.272968+03:00"
+    },
+    {
+      "index": 92,
+      "timestamp": "2025-07-23T01:09:20.858012+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:20.858012+03:00"
+    },
+    {
+      "index": 93,
+      "timestamp": "2025-07-23T01:09:21.091031+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:21.091031+03:00"
+    },
+    {
+      "index": 94,
+      "timestamp": "2025-07-23T01:09:21.837084+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:21.837084+03:00"
+    },
+    {
+      "index": 95,
+      "timestamp": "2025-07-23T01:09:21.916090+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:21.916090+03:00"
+    },
+    {
+      "index": 96,
+      "timestamp": "2025-07-23T01:09:22.377125+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:22.377125+03:00"
+    },
+    {
+      "index": 97,
+      "timestamp": "2025-07-23T01:09:22.922168+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:22.922168+03:00"
+    },
+    {
+      "index": 98,
+      "timestamp": "2025-07-23T01:09:23.068175+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:23.068175+03:00"
+    },
+    {
+      "index": 99,
+      "timestamp": "2025-07-23T01:09:23.854233+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:09:23.854233+03:00"
+    },
+    {
+      "index": 100,
+      "timestamp": "2025-07-23T01:09:23.914239+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:23.914239+03:00"
+    },
+    {
+      "index": 101,
+      "timestamp": "2025-07-23T01:09:24.604290+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:24.604290+03:00"
+    },
+    {
+      "index": 102,
+      "timestamp": "2025-07-23T01:09:24.766300+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:24.766300+03:00"
+    },
+    {
+      "index": 103,
+      "timestamp": "2025-07-23T01:09:25.329342+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:25.329342+03:00"
+    },
+    {
+      "index": 104,
+      "timestamp": "2025-07-23T01:09:25.623365+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:25.623365+03:00"
+    },
+    {
+      "index": 105,
+      "timestamp": "2025-07-23T01:09:26.095399+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:26.095399+03:00"
+    },
+    {
+      "index": 106,
+      "timestamp": "2025-07-23T01:09:26.773450+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:26.773450+03:00"
+    },
+    {
+      "index": 107,
+      "timestamp": "2025-07-23T01:09:26.827453+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:26.827453+03:00"
+    },
+    {
+      "index": 108,
+      "timestamp": "2025-07-23T01:09:27.258485+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:27.258485+03:00"
+    },
+    {
+      "index": 109,
+      "timestamp": "2025-07-23T01:09:27.700519+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:27.700519+03:00"
+    },
+    {
+      "index": 110,
+      "timestamp": "2025-07-23T01:09:28.031542+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:28.031542+03:00"
+    },
+    {
+      "index": 111,
+      "timestamp": "2025-07-23T01:09:28.444573+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:28.444573+03:00"
+    },
+    {
+      "index": 112,
+      "timestamp": "2025-07-23T01:09:28.984614+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:28.984614+03:00"
+    },
+    {
+      "index": 113,
+      "timestamp": "2025-07-23T01:09:29.478651+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:29.478651+03:00"
+    },
+    {
+      "index": 114,
+      "timestamp": "2025-07-23T01:09:29.720668+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:29.720668+03:00"
+    },
+    {
+      "index": 115,
+      "timestamp": "2025-07-23T01:09:30.209705+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:30.209705+03:00"
+    },
+    {
+      "index": 116,
+      "timestamp": "2025-07-23T01:09:30.564732+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:30.564732+03:00"
+    },
+    {
+      "index": 117,
+      "timestamp": "2025-07-23T01:09:31.084769+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:31.084769+03:00"
+    },
+    {
+      "index": 118,
+      "timestamp": "2025-07-23T01:09:31.453795+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:31.453795+03:00"
+    },
+    {
+      "index": 119,
+      "timestamp": "2025-07-23T01:09:31.835825+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:31.835825+03:00"
+    },
+    {
+      "index": 120,
+      "timestamp": "2025-07-23T01:09:32.520874+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:32.520874+03:00"
+    },
+    {
+      "index": 121,
+      "timestamp": "2025-07-23T01:09:32.579880+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:32.579880+03:00"
+    },
+    {
+      "index": 122,
+      "timestamp": "2025-07-23T01:09:33.001911+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:33.001911+03:00"
+    },
+    {
+      "index": 123,
+      "timestamp": "2025-07-23T01:09:33.844972+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:33.844972+03:00"
+    },
+    {
+      "index": 124,
+      "timestamp": "2025-07-23T01:09:34.011986+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:34.011986+03:00"
+    },
+    {
+      "index": 125,
+      "timestamp": "2025-07-23T01:09:34.240003+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:34.240003+03:00"
+    },
+    {
+      "index": 126,
+      "timestamp": "2025-07-23T01:09:34.777042+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:34.777042+03:00"
+    },
+    {
+      "index": 127,
+      "timestamp": "2025-07-23T01:09:35.119070+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:35.119070+03:00"
+    },
+    {
+      "index": 128,
+      "timestamp": "2025-07-23T01:09:35.609103+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:35.609103+03:00"
+    },
+    {
+      "index": 129,
+      "timestamp": "2025-07-23T01:09:35.880128+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:35.880128+03:00"
+    },
+    {
+      "index": 130,
+      "timestamp": "2025-07-23T01:09:36.726187+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:36.726187+03:00"
+    },
+    {
+      "index": 131,
+      "timestamp": "2025-07-23T01:09:36.784189+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:36.784189+03:00"
+    },
+    {
+      "index": 132,
+      "timestamp": "2025-07-23T01:09:37.271228+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:37.271228+03:00"
+    },
+    {
+      "index": 133,
+      "timestamp": "2025-07-23T01:09:37.526247+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:37.526247+03:00"
+    },
+    {
+      "index": 134,
+      "timestamp": "2025-07-23T01:09:38.110290+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:38.110290+03:00"
+    },
+    {
+      "index": 135,
+      "timestamp": "2025-07-23T01:09:38.446313+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:38.446313+03:00"
+    },
+    {
+      "index": 136,
+      "timestamp": "2025-07-23T01:09:38.795339+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:38.795339+03:00"
+    },
+    {
+      "index": 137,
+      "timestamp": "2025-07-23T01:09:39.199368+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:39.199368+03:00"
+    },
+    {
+      "index": 138,
+      "timestamp": "2025-07-23T01:09:39.594399+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:39.594399+03:00"
+    },
+    {
+      "index": 139,
+      "timestamp": "2025-07-23T01:09:40.066435+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:40.066435+03:00"
+    },
+    {
+      "index": 140,
+      "timestamp": "2025-07-23T01:09:40.457463+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:40.457463+03:00"
+    },
+    {
+      "index": 141,
+      "timestamp": "2025-07-23T01:09:41.256521+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:41.256521+03:00"
+    },
+    {
+      "index": 142,
+      "timestamp": "2025-07-23T01:09:41.305525+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:41.305525+03:00"
+    },
+    {
+      "index": 143,
+      "timestamp": "2025-07-23T01:09:41.761558+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:41.761558+03:00"
+    },
+    {
+      "index": 144,
+      "timestamp": "2025-07-23T01:09:42.099584+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:42.099584+03:00"
+    },
+    {
+      "index": 145,
+      "timestamp": "2025-07-23T01:09:43.007653+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:43.007653+03:00"
+    },
+    {
+      "index": 146,
+      "timestamp": "2025-07-23T01:09:43.061655+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:43.061655+03:00"
+    },
+    {
+      "index": 147,
+      "timestamp": "2025-07-23T01:09:43.618698+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:43.618698+03:00"
+    },
+    {
+      "index": 148,
+      "timestamp": "2025-07-23T01:09:43.690702+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:43.690702+03:00"
+    },
+    {
+      "index": 149,
+      "timestamp": "2025-07-23T01:09:44.290747+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:44.290747+03:00"
+    },
+    {
+      "index": 150,
+      "timestamp": "2025-07-23T01:09:44.577769+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:44.577769+03:00"
+    },
+    {
+      "index": 151,
+      "timestamp": "2025-07-23T01:09:45.370829+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:45.370829+03:00"
+    },
+    {
+      "index": 152,
+      "timestamp": "2025-07-23T01:09:45.622845+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:45.622845+03:00"
+    },
+    {
+      "index": 153,
+      "timestamp": "2025-07-23T01:09:45.863863+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:45.863863+03:00"
+    },
+    {
+      "index": 154,
+      "timestamp": "2025-07-23T01:09:46.244893+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:46.244893+03:00"
+    },
+    {
+      "index": 155,
+      "timestamp": "2025-07-23T01:09:46.744928+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:46.744928+03:00"
+    },
+    {
+      "index": 156,
+      "timestamp": "2025-07-23T01:09:47.106961+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:47.106961+03:00"
+    },
+    {
+      "index": 157,
+      "timestamp": "2025-07-23T01:09:47.601992+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:47.601992+03:00"
+    },
+    {
+      "index": 158,
+      "timestamp": "2025-07-23T01:09:48.101028+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:09:48.101028+03:00"
+    },
+    {
+      "index": 159,
+      "timestamp": "2025-07-23T01:09:48.307046+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:48.307046+03:00"
+    },
+    {
+      "index": 160,
+      "timestamp": "2025-07-23T01:09:48.805080+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:48.805080+03:00"
+    },
+    {
+      "index": 161,
+      "timestamp": "2025-07-23T01:09:49.605141+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:49.605141+03:00"
+    },
+    {
+      "index": 162,
+      "timestamp": "2025-07-23T01:09:49.892160+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:49.892160+03:00"
+    },
+    {
+      "index": 163,
+      "timestamp": "2025-07-23T01:09:49.956166+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:49.956166+03:00"
+    },
+    {
+      "index": 164,
+      "timestamp": "2025-07-23T01:09:50.434203+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:50.434203+03:00"
+    },
+    {
+      "index": 165,
+      "timestamp": "2025-07-23T01:09:50.832232+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:50.832232+03:00"
+    },
+    {
+      "index": 166,
+      "timestamp": "2025-07-23T01:09:51.246261+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:51.246261+03:00"
+    },
+    {
+      "index": 167,
+      "timestamp": "2025-07-23T01:09:51.707297+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:51.707297+03:00"
+    },
+    {
+      "index": 168,
+      "timestamp": "2025-07-23T01:09:52.146327+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:52.146327+03:00"
+    },
+    {
+      "index": 169,
+      "timestamp": "2025-07-23T01:09:52.748128+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:52.748128+03:00"
+    },
+    {
+      "index": 170,
+      "timestamp": "2025-07-23T01:09:52.971142+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:52.971142+03:00"
+    },
+    {
+      "index": 171,
+      "timestamp": "2025-07-23T01:09:53.410178+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:53.410178+03:00"
+    },
+    {
+      "index": 172,
+      "timestamp": "2025-07-23T01:09:53.859210+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:53.859210+03:00"
+    },
+    {
+      "index": 173,
+      "timestamp": "2025-07-23T01:09:54.108229+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:54.108229+03:00"
+    },
+    {
+      "index": 174,
+      "timestamp": "2025-07-23T01:09:54.670271+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:54.670271+03:00"
+    },
+    {
+      "index": 175,
+      "timestamp": "2025-07-23T01:09:54.969292+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:54.969292+03:00"
+    },
+    {
+      "index": 176,
+      "timestamp": "2025-07-23T01:09:55.610339+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:55.610339+03:00"
+    },
+    {
+      "index": 177,
+      "timestamp": "2025-07-23T01:09:55.797352+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:55.797352+03:00"
+    },
+    {
+      "index": 178,
+      "timestamp": "2025-07-23T01:09:56.191382+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:56.191382+03:00"
+    },
+    {
+      "index": 179,
+      "timestamp": "2025-07-23T01:09:56.760424+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:56.760424+03:00"
+    },
+    {
+      "index": 180,
+      "timestamp": "2025-07-23T01:09:57.010444+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:57.010444+03:00"
+    },
+    {
+      "index": 181,
+      "timestamp": "2025-07-23T01:09:57.468477+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:57.468477+03:00"
+    },
+    {
+      "index": 182,
+      "timestamp": "2025-07-23T01:09:57.915510+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:57.915510+03:00"
+    },
+    {
+      "index": 183,
+      "timestamp": "2025-07-23T01:09:58.379545+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:58.379545+03:00"
+    },
+    {
+      "index": 184,
+      "timestamp": "2025-07-23T01:09:58.752574+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:58.752574+03:00"
+    },
+    {
+      "index": 185,
+      "timestamp": "2025-07-23T01:09:59.076596+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:59.076596+03:00"
+    },
+    {
+      "index": 186,
+      "timestamp": "2025-07-23T01:09:59.474626+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:09:59.474626+03:00"
+    },
+    {
+      "index": 187,
+      "timestamp": "2025-07-23T01:10:00.006667+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:00.006667+03:00"
+    },
+    {
+      "index": 188,
+      "timestamp": "2025-07-23T01:10:00.620711+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:00.620711+03:00"
+    },
+    {
+      "index": 189,
+      "timestamp": "2025-07-23T01:10:00.835725+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:00.835725+03:00"
+    },
+    {
+      "index": 190,
+      "timestamp": "2025-07-23T01:10:01.264759+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:01.264759+03:00"
+    },
+    {
+      "index": 191,
+      "timestamp": "2025-07-23T01:10:01.645786+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:01.645786+03:00"
+    },
+    {
+      "index": 192,
+      "timestamp": "2025-07-23T01:10:01.941809+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:01.941809+03:00"
+    },
+    {
+      "index": 193,
+      "timestamp": "2025-07-23T01:10:02.575857+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:02.575857+03:00"
+    },
+    {
+      "index": 194,
+      "timestamp": "2025-07-23T01:10:02.814871+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:02.814871+03:00"
+    },
+    {
+      "index": 195,
+      "timestamp": "2025-07-23T01:10:03.248905+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:03.248905+03:00"
+    },
+    {
+      "index": 196,
+      "timestamp": "2025-07-23T01:10:03.614934+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:03.614934+03:00"
+    },
+    {
+      "index": 197,
+      "timestamp": "2025-07-23T01:10:04.221978+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:04.221978+03:00"
+    },
+    {
+      "index": 198,
+      "timestamp": "2025-07-23T01:10:04.884026+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:04.884026+03:00"
+    },
+    {
+      "index": 199,
+      "timestamp": "2025-07-23T01:10:04.930029+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:04.930029+03:00"
+    },
+    {
+      "index": 200,
+      "timestamp": "2025-07-23T01:10:05.260053+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:05.260053+03:00"
+    },
+    {
+      "index": 201,
+      "timestamp": "2025-07-23T01:10:05.725090+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:05.725090+03:00"
+    },
+    {
+      "index": 202,
+      "timestamp": "2025-07-23T01:10:06.235126+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:06.235126+03:00"
+    },
+    {
+      "index": 203,
+      "timestamp": "2025-07-23T01:10:06.547148+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:06.547148+03:00"
+    },
+    {
+      "index": 204,
+      "timestamp": "2025-07-23T01:10:06.975180+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:06.975180+03:00"
+    },
+    {
+      "index": 205,
+      "timestamp": "2025-07-23T01:10:07.320207+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:07.320207+03:00"
+    },
+    {
+      "index": 206,
+      "timestamp": "2025-07-23T01:10:07.993255+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:07.993255+03:00"
+    },
+    {
+      "index": 207,
+      "timestamp": "2025-07-23T01:10:08.227272+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:08.227272+03:00"
+    },
+    {
+      "index": 208,
+      "timestamp": "2025-07-23T01:10:08.658305+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:08.658305+03:00"
+    },
+    {
+      "index": 209,
+      "timestamp": "2025-07-23T01:10:08.952328+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:08.952328+03:00"
+    },
+    {
+      "index": 210,
+      "timestamp": "2025-07-23T01:10:09.662380+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:09.662380+03:00"
+    },
+    {
+      "index": 211,
+      "timestamp": "2025-07-23T01:10:10.057410+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:10.057410+03:00"
+    },
+    {
+      "index": 212,
+      "timestamp": "2025-07-23T01:10:10.368431+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:10.368431+03:00"
+    },
+    {
+      "index": 213,
+      "timestamp": "2025-07-23T01:10:10.583447+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:10.583447+03:00"
+    },
+    {
+      "index": 214,
+      "timestamp": "2025-07-23T01:10:11.329504+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:11.329504+03:00"
+    },
+    {
+      "index": 215,
+      "timestamp": "2025-07-23T01:10:11.460519+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:11.460519+03:00"
+    },
+    {
+      "index": 216,
+      "timestamp": "2025-07-23T01:10:12.032556+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:12.032556+03:00"
+    },
+    {
+      "index": 217,
+      "timestamp": "2025-07-23T01:10:12.323577+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:12.323577+03:00"
+    },
+    {
+      "index": 218,
+      "timestamp": "2025-07-23T01:10:12.807612+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:12.807612+03:00"
+    },
+    {
+      "index": 219,
+      "timestamp": "2025-07-23T01:10:13.138638+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:13.138638+03:00"
+    },
+    {
+      "index": 220,
+      "timestamp": "2025-07-23T01:10:13.459660+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:13.459660+03:00"
+    },
+    {
+      "index": 221,
+      "timestamp": "2025-07-23T01:10:14.252720+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:14.252720+03:00"
+    },
+    {
+      "index": 222,
+      "timestamp": "2025-07-23T01:10:14.397729+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:14.397729+03:00"
+    },
+    {
+      "index": 223,
+      "timestamp": "2025-07-23T01:10:14.662751+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:14.662751+03:00"
+    },
+    {
+      "index": 224,
+      "timestamp": "2025-07-23T01:10:15.143785+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:15.143785+03:00"
+    },
+    {
+      "index": 225,
+      "timestamp": "2025-07-23T01:10:15.732828+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:15.732828+03:00"
+    },
+    {
+      "index": 226,
+      "timestamp": "2025-07-23T01:10:16.272867+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:16.272867+03:00"
+    },
+    {
+      "index": 227,
+      "timestamp": "2025-07-23T01:10:16.497885+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:16.497885+03:00"
+    },
+    {
+      "index": 228,
+      "timestamp": "2025-07-23T01:10:16.987923+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:16.987923+03:00"
+    },
+    {
+      "index": 229,
+      "timestamp": "2025-07-23T01:10:17.707976+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:17.707976+03:00"
+    },
+    {
+      "index": 230,
+      "timestamp": "2025-07-23T01:10:17.760979+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:17.760979+03:00"
+    },
+    {
+      "index": 231,
+      "timestamp": "2025-07-23T01:10:18.473031+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:18.473031+03:00"
+    },
+    {
+      "index": 232,
+      "timestamp": "2025-07-23T01:10:18.531037+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:18.531037+03:00"
+    },
+    {
+      "index": 233,
+      "timestamp": "2025-07-23T01:10:19.014073+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:19.014073+03:00"
+    },
+    {
+      "index": 234,
+      "timestamp": "2025-07-23T01:10:19.272092+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:19.272092+03:00"
+    },
+    {
+      "index": 235,
+      "timestamp": "2025-07-23T01:10:19.637117+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:19.637117+03:00"
+    },
+    {
+      "index": 236,
+      "timestamp": "2025-07-23T01:10:20.069150+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:20.069150+03:00"
+    },
+    {
+      "index": 237,
+      "timestamp": "2025-07-23T01:10:20.768204+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:20.768204+03:00"
+    },
+    {
+      "index": 238,
+      "timestamp": "2025-07-23T01:10:20.887212+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:20.887212+03:00"
+    },
+    {
+      "index": 239,
+      "timestamp": "2025-07-23T01:10:21.254238+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:21.254238+03:00"
+    },
+    {
+      "index": 240,
+      "timestamp": "2025-07-23T01:10:21.876285+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:21.876285+03:00"
+    },
+    {
+      "index": 241,
+      "timestamp": "2025-07-23T01:10:22.334318+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:22.334318+03:00"
+    },
+    {
+      "index": 242,
+      "timestamp": "2025-07-23T01:10:23.204383+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:23.204383+03:00"
+    },
+    {
+      "index": 243,
+      "timestamp": "2025-07-23T01:10:23.344391+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:23.344391+03:00"
+    },
+    {
+      "index": 244,
+      "timestamp": "2025-07-23T01:10:23.389395+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:23.389395+03:00"
+    },
+    {
+      "index": 245,
+      "timestamp": "2025-07-23T01:10:23.804428+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:23.804428+03:00"
+    },
+    {
+      "index": 246,
+      "timestamp": "2025-07-23T01:10:24.343466+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:24.343466+03:00"
+    },
+    {
+      "index": 247,
+      "timestamp": "2025-07-23T01:10:24.662490+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:24.662490+03:00"
+    },
+    {
+      "index": 248,
+      "timestamp": "2025-07-23T01:10:25.060520+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:25.060520+03:00"
+    },
+    {
+      "index": 249,
+      "timestamp": "2025-07-23T01:10:25.529555+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:25.529555+03:00"
+    },
+    {
+      "index": 250,
+      "timestamp": "2025-07-23T01:10:25.895581+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:25.895581+03:00"
+    },
+    {
+      "index": 251,
+      "timestamp": "2025-07-23T01:10:26.290611+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:26.290611+03:00"
+    },
+    {
+      "index": 252,
+      "timestamp": "2025-07-23T01:10:26.606634+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:26.606634+03:00"
+    },
+    {
+      "index": 253,
+      "timestamp": "2025-07-23T01:10:27.122671+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:27.122671+03:00"
+    },
+    {
+      "index": 254,
+      "timestamp": "2025-07-23T01:10:27.992737+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:27.992737+03:00"
+    },
+    {
+      "index": 255,
+      "timestamp": "2025-07-23T01:10:28.369764+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:28.369764+03:00"
+    },
+    {
+      "index": 256,
+      "timestamp": "2025-07-23T01:10:28.423769+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:28.423769+03:00"
+    },
+    {
+      "index": 257,
+      "timestamp": "2025-07-23T01:10:28.861802+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:28.861802+03:00"
+    },
+    {
+      "index": 258,
+      "timestamp": "2025-07-23T01:10:29.618856+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:29.618856+03:00"
+    },
+    {
+      "index": 259,
+      "timestamp": "2025-07-23T01:10:29.667861+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:29.667861+03:00"
+    },
+    {
+      "index": 260,
+      "timestamp": "2025-07-23T01:10:30.028887+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:30.028887+03:00"
+    },
+    {
+      "index": 261,
+      "timestamp": "2025-07-23T01:10:30.428917+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:30.428917+03:00"
+    },
+    {
+      "index": 262,
+      "timestamp": "2025-07-23T01:10:30.966956+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:30.966956+03:00"
+    },
+    {
+      "index": 263,
+      "timestamp": "2025-07-23T01:10:31.267979+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:31.267979+03:00"
+    },
+    {
+      "index": 264,
+      "timestamp": "2025-07-23T01:10:32.056036+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:32.056036+03:00"
+    },
+    {
+      "index": 265,
+      "timestamp": "2025-07-23T01:10:32.209048+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:32.209048+03:00"
+    },
+    {
+      "index": 266,
+      "timestamp": "2025-07-23T01:10:32.543074+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:32.543074+03:00"
+    },
+    {
+      "index": 267,
+      "timestamp": "2025-07-23T01:10:32.984106+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:32.984106+03:00"
+    },
+    {
+      "index": 268,
+      "timestamp": "2025-07-23T01:10:33.214122+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:33.214122+03:00"
+    },
+    {
+      "index": 269,
+      "timestamp": "2025-07-23T01:10:33.832168+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:33.832168+03:00"
+    },
+    {
+      "index": 270,
+      "timestamp": "2025-07-23T01:10:34.084188+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:34.084188+03:00"
+    },
+    {
+      "index": 271,
+      "timestamp": "2025-07-23T01:10:34.655229+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:34.655229+03:00"
+    },
+    {
+      "index": 272,
+      "timestamp": "2025-07-23T01:10:35.165268+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:35.165268+03:00"
+    },
+    {
+      "index": 273,
+      "timestamp": "2025-07-23T01:10:35.751314+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:35.751314+03:00"
+    },
+    {
+      "index": 274,
+      "timestamp": "2025-07-23T01:10:35.881320+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:35.881320+03:00"
+    },
+    {
+      "index": 275,
+      "timestamp": "2025-07-23T01:10:36.190343+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:36.190343+03:00"
+    },
+    {
+      "index": 276,
+      "timestamp": "2025-07-23T01:10:36.562372+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:36.562372+03:00"
+    },
+    {
+      "index": 277,
+      "timestamp": "2025-07-23T01:10:37.103412+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:37.103412+03:00"
+    },
+    {
+      "index": 278,
+      "timestamp": "2025-07-23T01:10:37.515442+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:37.515442+03:00"
+    },
+    {
+      "index": 279,
+      "timestamp": "2025-07-23T01:10:37.663451+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:37.663451+03:00"
+    },
+    {
+      "index": 280,
+      "timestamp": "2025-07-23T01:10:38.444509+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:38.444509+03:00"
+    },
+    {
+      "index": 281,
+      "timestamp": "2025-07-23T01:10:38.505514+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:38.505514+03:00"
+    },
+    {
+      "index": 282,
+      "timestamp": "2025-07-23T01:10:38.981549+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:38.981549+03:00"
+    },
+    {
+      "index": 283,
+      "timestamp": "2025-07-23T01:10:39.263570+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:39.263570+03:00"
+    },
+    {
+      "index": 284,
+      "timestamp": "2025-07-23T01:10:40.341649+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:40.341649+03:00"
+    },
+    {
+      "index": 285,
+      "timestamp": "2025-07-23T01:10:40.387653+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:40.387653+03:00"
+    },
+    {
+      "index": 286,
+      "timestamp": "2025-07-23T01:10:40.781684+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:40.781684+03:00"
+    },
+    {
+      "index": 287,
+      "timestamp": "2025-07-23T01:10:40.934696+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:40.934696+03:00"
+    },
+    {
+      "index": 288,
+      "timestamp": "2025-07-23T01:10:41.364726+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:41.364726+03:00"
+    },
+    {
+      "index": 289,
+      "timestamp": "2025-07-23T01:10:41.772756+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:41.772756+03:00"
+    },
+    {
+      "index": 290,
+      "timestamp": "2025-07-23T01:10:42.254794+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:42.254794+03:00"
+    },
+    {
+      "index": 291,
+      "timestamp": "2025-07-23T01:10:42.989846+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:42.989846+03:00"
+    },
+    {
+      "index": 292,
+      "timestamp": "2025-07-23T01:10:43.057851+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:43.057851+03:00"
+    },
+    {
+      "index": 293,
+      "timestamp": "2025-07-23T01:10:43.681899+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:43.681899+03:00"
+    },
+    {
+      "index": 294,
+      "timestamp": "2025-07-23T01:10:44.116931+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:44.116931+03:00"
+    },
+    {
+      "index": 295,
+      "timestamp": "2025-07-23T01:10:44.970994+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:44.970994+03:00"
+    },
+    {
+      "index": 296,
+      "timestamp": "2025-07-23T01:10:45.046998+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:45.046998+03:00"
+    },
+    {
+      "index": 297,
+      "timestamp": "2025-07-23T01:10:45.112005+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:45.112005+03:00"
+    },
+    {
+      "index": 298,
+      "timestamp": "2025-07-23T01:10:45.880060+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:45.880060+03:00"
+    },
+    {
+      "index": 299,
+      "timestamp": "2025-07-23T01:10:45.939064+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:45.939064+03:00"
+    },
+    {
+      "index": 300,
+      "timestamp": "2025-07-23T01:10:46.322093+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:46.322093+03:00"
+    },
+    {
+      "index": 301,
+      "timestamp": "2025-07-23T01:10:47.075150+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:47.075150+03:00"
+    },
+    {
+      "index": 302,
+      "timestamp": "2025-07-23T01:10:47.132155+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:47.132155+03:00"
+    },
+    {
+      "index": 303,
+      "timestamp": "2025-07-23T01:10:47.986215+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:47.986215+03:00"
+    },
+    {
+      "index": 304,
+      "timestamp": "2025-07-23T01:10:48.118226+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:48.118226+03:00"
+    },
+    {
+      "index": 305,
+      "timestamp": "2025-07-23T01:10:48.495255+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:48.495255+03:00"
+    },
+    {
+      "index": 306,
+      "timestamp": "2025-07-23T01:10:48.851281+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:48.851281+03:00"
+    },
+    {
+      "index": 307,
+      "timestamp": "2025-07-23T01:10:49.112301+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:49.112301+03:00"
+    },
+    {
+      "index": 308,
+      "timestamp": "2025-07-23T01:10:49.515328+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:49.515328+03:00"
+    },
+    {
+      "index": 309,
+      "timestamp": "2025-07-23T01:10:50.310390+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:50.310390+03:00"
+    },
+    {
+      "index": 310,
+      "timestamp": "2025-07-23T01:10:50.368396+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:50.368396+03:00"
+    },
+    {
+      "index": 311,
+      "timestamp": "2025-07-23T01:10:50.791424+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:50.791424+03:00"
+    },
+    {
+      "index": 312,
+      "timestamp": "2025-07-23T01:10:51.723493+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:51.723493+03:00"
+    },
+    {
+      "index": 313,
+      "timestamp": "2025-07-23T01:10:51.773496+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:51.773496+03:00"
+    },
+    {
+      "index": 314,
+      "timestamp": "2025-07-23T01:10:52.048517+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:52.048517+03:00"
+    },
+    {
+      "index": 315,
+      "timestamp": "2025-07-23T01:10:52.503554+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:52.503554+03:00"
+    },
+    {
+      "index": 316,
+      "timestamp": "2025-07-23T01:10:53.074593+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:53.074593+03:00"
+    },
+    {
+      "index": 317,
+      "timestamp": "2025-07-23T01:10:53.494624+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:53.494624+03:00"
+    },
+    {
+      "index": 318,
+      "timestamp": "2025-07-23T01:10:53.698638+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:53.698638+03:00"
+    },
+    {
+      "index": 319,
+      "timestamp": "2025-07-23T01:10:54.140674+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:54.140674+03:00"
+    },
+    {
+      "index": 320,
+      "timestamp": "2025-07-23T01:10:54.508699+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:54.508699+03:00"
+    },
+    {
+      "index": 321,
+      "timestamp": "2025-07-23T01:10:55.144746+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:55.144746+03:00"
+    },
+    {
+      "index": 322,
+      "timestamp": "2025-07-23T01:10:55.607782+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:55.607782+03:00"
+    },
+    {
+      "index": 323,
+      "timestamp": "2025-07-23T01:10:55.677787+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:55.677787+03:00"
+    },
+    {
+      "index": 324,
+      "timestamp": "2025-07-23T01:10:56.138821+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:56.138821+03:00"
+    },
+    {
+      "index": 325,
+      "timestamp": "2025-07-23T01:10:56.652858+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:56.652858+03:00"
+    },
+    {
+      "index": 326,
+      "timestamp": "2025-07-23T01:10:57.123893+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:57.123893+03:00"
+    },
+    {
+      "index": 327,
+      "timestamp": "2025-07-23T01:10:57.499922+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:57.499922+03:00"
+    },
+    {
+      "index": 328,
+      "timestamp": "2025-07-23T01:10:58.002959+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:58.002959+03:00"
+    },
+    {
+      "index": 329,
+      "timestamp": "2025-07-23T01:10:58.111967+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:58.111967+03:00"
+    },
+    {
+      "index": 330,
+      "timestamp": "2025-07-23T01:10:58.638005+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:58.638005+03:00"
+    },
+    {
+      "index": 331,
+      "timestamp": "2025-07-23T01:10:59.223049+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:10:59.223049+03:00"
+    },
+    {
+      "index": 332,
+      "timestamp": "2025-07-23T01:10:59.701084+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:10:59.701084+03:00"
+    },
+    {
+      "index": 333,
+      "timestamp": "2025-07-23T01:11:00.216126+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:00.216126+03:00"
+    },
+    {
+      "index": 334,
+      "timestamp": "2025-07-23T01:11:00.271124+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:00.271124+03:00"
+    },
+    {
+      "index": 335,
+      "timestamp": "2025-07-23T01:11:01.159192+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:01.159192+03:00"
+    },
+    {
+      "index": 336,
+      "timestamp": "2025-07-23T01:11:01.222196+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:01.222196+03:00"
+    },
+    {
+      "index": 337,
+      "timestamp": "2025-07-23T01:11:01.992252+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:01.992252+03:00"
+    },
+    {
+      "index": 338,
+      "timestamp": "2025-07-23T01:11:02.181266+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:02.181266+03:00"
+    },
+    {
+      "index": 339,
+      "timestamp": "2025-07-23T01:11:02.239271+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:02.239271+03:00"
+    },
+    {
+      "index": 340,
+      "timestamp": "2025-07-23T01:11:02.685303+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:02.685303+03:00"
+    },
+    {
+      "index": 341,
+      "timestamp": "2025-07-23T01:11:03.161339+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:03.161339+03:00"
+    },
+    {
+      "index": 342,
+      "timestamp": "2025-07-23T01:11:03.741382+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:03.741382+03:00"
+    },
+    {
+      "index": 343,
+      "timestamp": "2025-07-23T01:11:04.594446+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:04.594446+03:00"
+    },
+    {
+      "index": 344,
+      "timestamp": "2025-07-23T01:11:04.655450+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:04.655450+03:00"
+    },
+    {
+      "index": 345,
+      "timestamp": "2025-07-23T01:11:04.711456+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:04.711456+03:00"
+    },
+    {
+      "index": 346,
+      "timestamp": "2025-07-23T01:11:05.459509+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:05.459509+03:00"
+    },
+    {
+      "index": 347,
+      "timestamp": "2025-07-23T01:11:05.530516+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:05.530516+03:00"
+    },
+    {
+      "index": 348,
+      "timestamp": "2025-07-23T01:11:06.027553+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:06.027553+03:00"
+    },
+    {
+      "index": 349,
+      "timestamp": "2025-07-23T01:11:06.914617+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:06.914617+03:00"
+    },
+    {
+      "index": 350,
+      "timestamp": "2025-07-23T01:11:06.971621+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:06.971621+03:00"
+    },
+    {
+      "index": 351,
+      "timestamp": "2025-07-23T01:11:07.141636+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:07.141636+03:00"
+    },
+    {
+      "index": 352,
+      "timestamp": "2025-07-23T01:11:07.677674+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:07.677674+03:00"
+    },
+    {
+      "index": 353,
+      "timestamp": "2025-07-23T01:11:08.153713+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:08.153713+03:00"
+    },
+    {
+      "index": 354,
+      "timestamp": "2025-07-23T01:11:08.503737+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:08.503737+03:00"
+    },
+    {
+      "index": 355,
+      "timestamp": "2025-07-23T01:11:08.817759+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:08.817759+03:00"
+    },
+    {
+      "index": 356,
+      "timestamp": "2025-07-23T01:11:09.319798+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:09.319798+03:00"
+    },
+    {
+      "index": 357,
+      "timestamp": "2025-07-23T01:11:09.815833+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:09.815833+03:00"
+    },
+    {
+      "index": 358,
+      "timestamp": "2025-07-23T01:11:10.153856+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:10.153856+03:00"
+    },
+    {
+      "index": 359,
+      "timestamp": "2025-07-23T01:11:10.882912+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:10.882912+03:00"
+    },
+    {
+      "index": 360,
+      "timestamp": "2025-07-23T01:11:10.939915+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:10.939915+03:00"
+    },
+    {
+      "index": 361,
+      "timestamp": "2025-07-23T01:11:11.397950+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:11.397950+03:00"
+    },
+    {
+      "index": 362,
+      "timestamp": "2025-07-23T01:11:11.935991+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:11.935991+03:00"
+    },
+    {
+      "index": 363,
+      "timestamp": "2025-07-23T01:11:12.043997+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:12.043997+03:00"
+    },
+    {
+      "index": 364,
+      "timestamp": "2025-07-23T01:11:12.882066+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:12.882066+03:00"
+    },
+    {
+      "index": 365,
+      "timestamp": "2025-07-23T01:11:12.936063+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:12.936063+03:00"
+    },
+    {
+      "index": 366,
+      "timestamp": "2025-07-23T01:11:13.403102+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:13.403102+03:00"
+    },
+    {
+      "index": 367,
+      "timestamp": "2025-07-23T01:11:14.164154+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:14.164154+03:00"
+    },
+    {
+      "index": 368,
+      "timestamp": "2025-07-23T01:11:14.226158+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:14.226158+03:00"
+    },
+    {
+      "index": 369,
+      "timestamp": "2025-07-23T01:11:14.767198+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:14.767198+03:00"
+    },
+    {
+      "index": 370,
+      "timestamp": "2025-07-23T01:11:15.344243+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:15.344243+03:00"
+    },
+    {
+      "index": 371,
+      "timestamp": "2025-07-23T01:11:15.459249+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:15.459249+03:00"
+    },
+    {
+      "index": 372,
+      "timestamp": "2025-07-23T01:11:15.830278+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:15.830278+03:00"
+    },
+    {
+      "index": 373,
+      "timestamp": "2025-07-23T01:11:16.256308+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:16.256308+03:00"
+    },
+    {
+      "index": 374,
+      "timestamp": "2025-07-23T01:11:16.818352+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:16.818352+03:00"
+    },
+    {
+      "index": 375,
+      "timestamp": "2025-07-23T01:11:17.078371+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:17.078371+03:00"
+    },
+    {
+      "index": 376,
+      "timestamp": "2025-07-23T01:11:17.505402+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:17.505402+03:00"
+    },
+    {
+      "index": 377,
+      "timestamp": "2025-07-23T01:11:18.170452+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:18.170452+03:00"
+    },
+    {
+      "index": 378,
+      "timestamp": "2025-07-23T01:11:18.415468+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:18.415468+03:00"
+    },
+    {
+      "index": 379,
+      "timestamp": "2025-07-23T01:11:18.787500+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:18.787500+03:00"
+    },
+    {
+      "index": 380,
+      "timestamp": "2025-07-23T01:11:19.356540+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:19.356540+03:00"
+    },
+    {
+      "index": 381,
+      "timestamp": "2025-07-23T01:11:19.903579+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:19.903579+03:00"
+    },
+    {
+      "index": 382,
+      "timestamp": "2025-07-23T01:11:19.973584+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:19.973584+03:00"
+    },
+    {
+      "index": 383,
+      "timestamp": "2025-07-23T01:11:20.475622+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:20.475622+03:00"
+    },
+    {
+      "index": 384,
+      "timestamp": "2025-07-23T01:11:20.902657+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:20.902657+03:00"
+    },
+    {
+      "index": 385,
+      "timestamp": "2025-07-23T01:11:21.501698+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:21.501698+03:00"
+    },
+    {
+      "index": 386,
+      "timestamp": "2025-07-23T01:11:21.555702+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:21.555702+03:00"
+    },
+    {
+      "index": 387,
+      "timestamp": "2025-07-23T01:11:22.138745+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:22.138745+03:00"
+    },
+    {
+      "index": 388,
+      "timestamp": "2025-07-23T01:11:22.704787+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:22.704787+03:00"
+    },
+    {
+      "index": 389,
+      "timestamp": "2025-07-23T01:11:22.767790+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": -1,
+      "window_start_time": "2025-07-23T01:11:22.767790+03:00"
+    },
+    {
+      "index": 390,
+      "timestamp": "2025-07-23T01:11:23.313831+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:23.313831+03:00"
+    },
+    {
+      "index": 391,
+      "timestamp": "2025-07-23T01:11:24.158893+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:24.158893+03:00"
+    },
+    {
+      "index": 392,
+      "timestamp": "2025-07-23T01:11:24.203896+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:24.203896+03:00"
+    },
+    {
+      "index": 393,
+      "timestamp": "2025-07-23T01:11:24.415914+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:24.415914+03:00"
+    },
+    {
+      "index": 394,
+      "timestamp": "2025-07-23T01:11:24.930952+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:24.930952+03:00"
+    },
+    {
+      "index": 395,
+      "timestamp": "2025-07-23T01:11:25.534995+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:25.534995+03:00"
+    },
+    {
+      "index": 396,
+      "timestamp": "2025-07-23T01:11:25.586001+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:25.586001+03:00"
+    },
+    {
+      "index": 397,
+      "timestamp": "2025-07-23T01:11:26.052035+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:26.052035+03:00"
+    },
+    {
+      "index": 398,
+      "timestamp": "2025-07-23T01:11:26.747086+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:26.747086+03:00"
+    },
+    {
+      "index": 399,
+      "timestamp": "2025-07-23T01:11:26.803089+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:26.803089+03:00"
+    },
+    {
+      "index": 400,
+      "timestamp": "2025-07-23T01:11:27.878169+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:27.878169+03:00"
+    },
+    {
+      "index": 401,
+      "timestamp": "2025-07-23T01:11:27.935174+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:27.935174+03:00"
+    },
+    {
+      "index": 402,
+      "timestamp": "2025-07-23T01:11:28.126187+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:28.126187+03:00"
+    },
+    {
+      "index": 403,
+      "timestamp": "2025-07-23T01:11:28.512217+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:28.512217+03:00"
+    },
+    {
+      "index": 404,
+      "timestamp": "2025-07-23T01:11:29.135263+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:29.135263+03:00"
+    },
+    {
+      "index": 405,
+      "timestamp": "2025-07-23T01:11:29.503290+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:29.503290+03:00"
+    },
+    {
+      "index": 406,
+      "timestamp": "2025-07-23T01:11:30.005328+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:30.005328+03:00"
+    },
+    {
+      "index": 407,
+      "timestamp": "2025-07-23T01:11:30.059331+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 1,
+      "window_start_time": "2025-07-23T01:11:30.059331+03:00"
+    },
+    {
+      "index": 408,
+      "timestamp": "2025-07-23T01:11:30.634375+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:30.634375+03:00"
+    },
+    {
+      "index": 409,
+      "timestamp": "2025-07-23T01:11:31.216418+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:31.216418+03:00"
+    },
+    {
+      "index": 410,
+      "timestamp": "2025-07-23T01:11:31.427431+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:31.427431+03:00"
+    },
+    {
+      "index": 411,
+      "timestamp": "2025-07-23T01:11:31.934469+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:31.934469+03:00"
+    },
+    {
+      "index": 412,
+      "timestamp": "2025-07-23T01:11:32.589518+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:32.589518+03:00"
+    },
+    {
+      "index": 413,
+      "timestamp": "2025-07-23T01:11:32.636522+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:32.636522+03:00"
+    },
+    {
+      "index": 414,
+      "timestamp": "2025-07-23T01:11:33.676598+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:33.676598+03:00"
+    },
+    {
+      "index": 415,
+      "timestamp": "2025-07-23T01:11:33.724603+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:33.724603+03:00"
+    },
+    {
+      "index": 416,
+      "timestamp": "2025-07-23T01:11:33.775607+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:33.775607+03:00"
+    },
+    {
+      "index": 417,
+      "timestamp": "2025-07-23T01:11:34.280643+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:34.280643+03:00"
+    },
+    {
+      "index": 418,
+      "timestamp": "2025-07-23T01:11:34.640669+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:34.640669+03:00"
+    },
+    {
+      "index": 419,
+      "timestamp": "2025-07-23T01:11:35.350723+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:35.350723+03:00"
+    },
+    {
+      "index": 420,
+      "timestamp": "2025-07-23T01:11:35.428731+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:35.428731+03:00"
+    },
+    {
+      "index": 421,
+      "timestamp": "2025-07-23T01:11:36.042776+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:36.042776+03:00"
+    },
+    {
+      "index": 422,
+      "timestamp": "2025-07-23T01:11:36.630818+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:36.630818+03:00"
+    },
+    {
+      "index": 423,
+      "timestamp": "2025-07-23T01:11:37.207861+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:37.207861+03:00"
+    },
+    {
+      "index": 424,
+      "timestamp": "2025-07-23T01:11:37.255862+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:37.255862+03:00"
+    },
+    {
+      "index": 425,
+      "timestamp": "2025-07-23T01:11:37.493880+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:37.493880+03:00"
+    },
+    {
+      "index": 426,
+      "timestamp": "2025-07-23T01:11:38.277940+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:38.277940+03:00"
+    },
+    {
+      "index": 427,
+      "timestamp": "2025-07-23T01:11:38.338944+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:38.338944+03:00"
+    },
+    {
+      "index": 428,
+      "timestamp": "2025-07-23T01:11:38.674968+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:38.674968+03:00"
+    },
+    {
+      "index": 429,
+      "timestamp": "2025-07-23T01:11:39.538034+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:39.538034+03:00"
+    },
+    {
+      "index": 430,
+      "timestamp": "2025-07-23T01:11:39.618039+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:39.618039+03:00"
+    },
+    {
+      "index": 431,
+      "timestamp": "2025-07-23T01:11:40.397096+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:40.397096+03:00"
+    },
+    {
+      "index": 432,
+      "timestamp": "2025-07-23T01:11:40.806126+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:40.806126+03:00"
+    },
+    {
+      "index": 433,
+      "timestamp": "2025-07-23T01:11:40.855132+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:40.855132+03:00"
+    },
+    {
+      "index": 434,
+      "timestamp": "2025-07-23T01:11:41.337165+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:41.337165+03:00"
+    },
+    {
+      "index": 435,
+      "timestamp": "2025-07-23T01:11:42.025217+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:42.025217+03:00"
+    },
+    {
+      "index": 436,
+      "timestamp": "2025-07-23T01:11:42.073222+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:42.073222+03:00"
+    },
+    {
+      "index": 437,
+      "timestamp": "2025-07-23T01:11:42.599258+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:42.599258+03:00"
+    },
+    {
+      "index": 438,
+      "timestamp": "2025-07-23T01:11:43.142300+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:43.142300+03:00"
+    },
+    {
+      "index": 439,
+      "timestamp": "2025-07-23T01:11:43.192303+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:43.192303+03:00"
+    },
+    {
+      "index": 440,
+      "timestamp": "2025-07-23T01:11:43.742343+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:43.742343+03:00"
+    },
+    {
+      "index": 441,
+      "timestamp": "2025-07-23T01:11:44.322387+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:44.322387+03:00"
+    },
+    {
+      "index": 442,
+      "timestamp": "2025-07-23T01:11:44.382392+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:44.382392+03:00"
+    },
+    {
+      "index": 443,
+      "timestamp": "2025-07-23T01:11:44.963435+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:44.963435+03:00"
+    },
+    {
+      "index": 444,
+      "timestamp": "2025-07-23T01:11:45.444470+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:45.444470+03:00"
+    },
+    {
+      "index": 445,
+      "timestamp": "2025-07-23T01:11:45.599480+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:45.599480+03:00"
+    },
+    {
+      "index": 446,
+      "timestamp": "2025-07-23T01:11:46.112520+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:46.112520+03:00"
+    },
+    {
+      "index": 447,
+      "timestamp": "2025-07-23T01:11:46.723564+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:46.723564+03:00"
+    },
+    {
+      "index": 448,
+      "timestamp": "2025-07-23T01:11:46.868577+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:46.868577+03:00"
+    },
+    {
+      "index": 449,
+      "timestamp": "2025-07-23T01:11:47.465622+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:47.465622+03:00"
+    },
+    {
+      "index": 450,
+      "timestamp": "2025-07-23T01:11:47.660633+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:47.660633+03:00"
+    },
+    {
+      "index": 451,
+      "timestamp": "2025-07-23T01:11:48.094666+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:48.094666+03:00"
+    },
+    {
+      "index": 452,
+      "timestamp": "2025-07-23T01:11:48.551700+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:48.551700+03:00"
+    },
+    {
+      "index": 453,
+      "timestamp": "2025-07-23T01:11:49.313757+03:00",
+      "prediction_value": 2,
+      "prediction_label": "Positive",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:49.313757+03:00"
+    },
+    {
+      "index": 454,
+      "timestamp": "2025-07-23T01:11:49.374763+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:49.374763+03:00"
+    },
+    {
+      "index": 455,
+      "timestamp": "2025-07-23T01:11:49.737786+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:49.737786+03:00"
+    },
+    {
+      "index": 456,
+      "timestamp": "2025-07-23T01:11:50.216823+03:00",
+      "prediction_value": 1,
+      "prediction_label": "Neutral",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:50.216823+03:00"
+    },
+    {
+      "index": 457,
+      "timestamp": "2025-07-23T01:11:50.625854+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:50.625854+03:00"
+    },
+    {
+      "index": 458,
+      "timestamp": "2025-07-23T01:11:51.191896+03:00",
+      "prediction_value": 0,
+      "prediction_label": "Negative",
+      "event_detected": 0,
+      "window_start_time": "2025-07-23T01:11:51.191896+03:00"
+    }
+  ],
+  "summary": {
+    "state_distribution": {
+      "Positive": {
+        "count": 259,
+        "percentage": 56.43
+      },
+      "Negative": {
+        "count": 107,
+        "percentage": 23.31
+      },
+      "Neutral": {
+        "count": 93,
+        "percentage": 20.26
+      }
+    },
+    "event_summary": {
+      "total_events": 9,
+      "event_periods": [
+        {
+          "event_id": 1,
+          "event_type": 1,
+          "start_sample": 7660,
+          "end_sample": 8054,
+          "duration_samples": 395,
+          "duration_seconds": 1.975
+        },
+        {
+          "event_id": 2,
+          "event_type": 1,
+          "start_sample": 10038,
+          "end_sample": 11005,
+          "duration_samples": 968,
+          "duration_seconds": 4.84
+        },
+        {
+          "event_id": 3,
+          "event_type": 1,
+          "start_sample": 12443,
+          "end_sample": 13721,
+          "duration_samples": 1279,
+          "duration_seconds": 6.395
+        },
+        {
+          "event_id": 4,
+          "event_type": 1,
+          "start_sample": 14886,
+          "end_sample": 15887,
+          "duration_samples": 1002,
+          "duration_seconds": 5.01
+        },
+        {
+          "event_id": 5,
+          "event_type": 1,
+          "start_sample": 27089,
+          "end_sample": 28589,
+          "duration_samples": 1501,
+          "duration_seconds": 7.505
+        },
+        {
+          "event_id": 6,
+          "event_type": 1,
+          "start_sample": 29506,
+          "end_sample": 30847,
+          "duration_samples": 1342,
+          "duration_seconds": 6.71
+        },
+        {
+          "event_id": 7,
+          "event_type": 1,
+          "start_sample": 34254,
+          "end_sample": 35668,
+          "duration_samples": 1415,
+          "duration_seconds": 7.075
+        },
+        {
+          "event_id": 8,
+          "event_type": 1,
+          "start_sample": 36831,
+          "end_sample": 37435,
+          "duration_samples": 605,
+          "duration_seconds": 3.025
+        },
+        {
+          "event_id": 9,
+          "event_type": 1,
+          "start_sample": 39283,
+          "end_sample": 40722,
+          "duration_samples": 1440,
+          "duration_seconds": 7.2
+        }
+      ]
+    }
+  }
+}
